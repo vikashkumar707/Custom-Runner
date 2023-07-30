@@ -5,5 +5,5 @@ jobs:
   init:
     runs-on: self-hosted
     steps:
-      -run: echo 'hello world'world
-      -run: echo $HOSTNAME
+      -run: echo 'hello world'
+     
